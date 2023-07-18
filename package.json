@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "compile": "npx hardhat compile",
-    "deploy": "npx hardhat compile && npx hardhat run deploy.js --network sepolia"
+    "deploy": "npx hardhat run deploy.js --network sepolia"
   },
   "author": "",
   "license": "ISC",
